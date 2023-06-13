@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852067923463",
+    "project_id": "roadboostcompany",
+    "storage_bucket": "roadboostcompany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852067923463:android:ebb62b56682cac9a751ca2",
+        "android_client_info": {
+          "package_name": "com.nhanitech.roadboost_company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852067923463-v7586k8gcptdrho9kqqi1776ih291f2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhanitech.roadboost_company",
+            "certificate_hash": "ee0dbc8a5ddf5344c86d0c26c64414109440037e"
+          }
+        },
+        {
+          "client_id": "852067923463-bfs2mjlha1nhf9q2a5m8m9ssa7hvusnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6axCJ6UcMugtguUmXeNpVMBH-0ET33Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852067923463-bfs2mjlha1nhf9q2a5m8m9ssa7hvusnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
